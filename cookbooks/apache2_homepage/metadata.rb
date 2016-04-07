@@ -1,0 +1,7 @@
+name 'apache2_homepage'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures apache2_homepage'
+long_description 'Installs/Configures apache2_homepage'
+version '0.1.0'
